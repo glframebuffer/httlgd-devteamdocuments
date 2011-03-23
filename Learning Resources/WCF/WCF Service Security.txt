@@ -1,0 +1,3 @@
+http://www.theserverside.net/tt/articles/showarticle.tss?id=SecuringWCFService
+
+http://wcfsecurityguide.codeplex.com/
