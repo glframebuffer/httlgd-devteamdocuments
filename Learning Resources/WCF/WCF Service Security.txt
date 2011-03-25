@@ -1,3 +1,9 @@
 http://www.theserverside.net/tt/articles/showarticle.tss?id=SecuringWCFService
 
 http://wcfsecurityguide.codeplex.com/
+
+IIS 7.5 Express
+Web Matrix
+Web Platform Installer 3.0
+Web Deployment Tool 2.0
+IIS 6.0 Resource 
